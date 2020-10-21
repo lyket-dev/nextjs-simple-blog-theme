@@ -1,0 +1,30 @@
+.container {
+  max-width: 36rem;
+  padding: 0 1rem;
+  margin: 3rem auto 6rem;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: url("/images/bg.png");
+}
+
+.headerImage {
+  width: 6rem;
+  height: 6rem;
+  background-color: white;
+  margin-top: 1rem;
+}
+
+.headerHomeImage {
+  width: 8rem;
+  height: 8rem;
+  margin-top: 1rem;
+  background-color: white;
+}
+
+.backToHome {
+  margin: 3rem 0 0;
+}
